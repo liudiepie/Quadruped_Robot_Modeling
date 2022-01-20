@@ -1,5 +1,5 @@
 # Quadruped_Robot_Modeling  
-![](<image/testudog.png>)   
+![](<image/testudog.jpg>)   
 This is a side project of robotics club at Maryland.  
 We try to create a quadrped robot dog which can climb the stairs in the real world.  
 This simulation mainly focuses on Forward and Inverse Kinematics of the robot dog.  
