@@ -35,3 +35,5 @@ Using Inverse Kinematics, plugging the speed of the end frame of the leg can tra
 ## Result  
 This is the performance video [LINK](https://www.youtube.com/watch?v=UkG_kO7CFe8)  
 Applying the speed on the front right leg and back left leg, it makes the robot moves around front left leg(ideal condition).  
+The moving path of the leg  
+![](<image/path.png>)  
